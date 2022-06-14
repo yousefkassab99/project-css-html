@@ -127,15 +127,19 @@ header{
     border: 2px solid yellow;
 }  
 
+
 .flex-child:first-child {
-    margin-right: 10px;
+    margin-right: 20px;
 } 
 
 #image-1{
-width : 300px;
-  hight:300px;
+    width: 500px;
+    height: 300px;
 }
-
+#image-2{
+    width: 500px;
+    height: 300px;
+}
 
 /*-----------------------------------------------------------------------------------------------------*/
 .footer .box-container{
